@@ -1,0 +1,55 @@
+- Animals
+alligator
+camel
+chicken
+deer
+frog
+monkey
+
+- Body
+brain
+feet
+shoulder
+thumb
+toe
+wrist
+
+- Color
+violet
+blue
+brown
+amber
+purple
+
+- Clothes
+pants
+raincoat
+trousers
+socks
+blouse
+
+- Continents
+africa
+antarctica
+asia
+australia
+europe
+america
+
+- Doctors
+nurse
+pediatrician
+psychiatrist
+surgeon
+ophthalmologist
+anesthesiologist
+
+- Time
+hour
+alarm
+century
+date
+day
+month
+minute
+second
